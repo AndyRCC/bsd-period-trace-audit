@@ -297,7 +297,7 @@ Most of it is carried by the size of the bad primes.
 
 # 8. Reproducibility
 
-- **Repository.** https://github.com/AndyRCC/bsd-period-trace-audit (code under the MIT license; text, results and figures under CC BY 4.0). All paths below are relative to it.
+- **Repository.** https://github.com/AndyRCC/bsd-period-trace-audit (code under the MIT license; text, results and figures under CC BY 4.0), archived on Zenodo as doi:10.5281/zenodo.24450625 (version 1.0: doi:10.5281/zenodo.24450626). All paths below are relative to it.
 - **Location.** Code is in `lab/` (Python 3.12, PARI/GP 2.19.1) and results in `resultados/NN-name/`.
 - **Data integrity.** File hashes are recorded in `datos/MANIFEST.md`.
 - **Tests.** `.venv\Scripts\python -m pytest lab\tests -q` (40 tests).
