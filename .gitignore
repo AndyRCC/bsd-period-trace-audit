@@ -1,0 +1,12 @@
+# Entorno local
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Datos pesados: se regeneran (ver README)
+datos/cremona/
+datos/derivados/
+
+# Ruta local a gp.exe (propia de cada máquina)
+lab/gp_ruta.txt

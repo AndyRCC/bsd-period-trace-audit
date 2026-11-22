@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Period–trace correlations among elliptic curves over Q: an independent audit with fine strata"
+authors:
+  - family-names: "Casafranca"
+    given-names: "Andy"
+version: "1.0"
+date-released: "2026-11-22"
+repository-code: "https://github.com/AndyRCC/bsd-period-trace-audit"
+license: "MIT"
+keywords:
+  - "elliptic curves"
+  - "Birch and Swinnerton-Dyer conjecture"
+  - "murmurations"
+  - "Tamagawa numbers"
+  - "reproducibility"
