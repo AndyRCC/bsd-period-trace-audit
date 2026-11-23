@@ -4,9 +4,9 @@ title: "Period–trace correlations among elliptic curves over Q: an independent
 authors:
   - family-names: "Casafranca"
     given-names: "Andy"
-version: "1.0"
+version: "1.0.1"
 doi: "10.5281/zenodo.24450625"
-date-released: "2026-11-22"
+date-released: "2026-11-23"
 repository-code: "https://github.com/AndyRCC/bsd-period-trace-audit"
 license: "MIT"
 keywords:
