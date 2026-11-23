@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24450625.svg)](https://doi.org/10.5281/zenodo.24450625)
 
-**Author:** Andy Casafranca · **Version:** 1.0.1 (November 2026) · **DOI:** [10.5281/zenodo.24450625](https://doi.org/10.5281/zenodo.24450625) (all versions; v1.0 is [10.5281/zenodo.24450626](https://doi.org/10.5281/zenodo.24450626))
+**Author:** Andy Casafranca · **Version:** 1.0.1 (November 2026) · **DOI:** [10.5281/zenodo.24450625](https://doi.org/10.5281/zenodo.24450625) (all versions; v1.0.1 is [10.5281/zenodo.24484240](https://doi.org/10.5281/zenodo.24484240), v1.0 is [10.5281/zenodo.24450626](https://doi.org/10.5281/zenodo.24450626))
 
 This repository contains the code, results and preprint of an independent
 audit of recent claims (D. Wachs, arXiv:2603.04604 and arXiv:2603.22807, October 2026 versions).
